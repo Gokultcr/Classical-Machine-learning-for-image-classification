@@ -46,7 +46,7 @@ plt.savefig('knn_compare_model')
 
 ### Decision Tree Algorithm
 
-Decision Tree algorithm is used
+Decision Tree algorithm is used with random_state=0
 
 ```python
 from sklearn.tree import DecisionTreeClassifier
